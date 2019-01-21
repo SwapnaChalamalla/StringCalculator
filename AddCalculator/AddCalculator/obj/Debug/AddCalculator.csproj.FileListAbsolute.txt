@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\obj\Debug\AddCalculator.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\obj\Debug\AddCalculator.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\obj\Debug\AddCalculator.pdb

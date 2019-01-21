@@ -1,0 +1,11 @@
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe.config
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\AddCalculator.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\MSTestHacks.dll
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\nunit.framework.dll
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\MSTestHacks.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\bin\Debug\nunit.framework.xml
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\obj\Debug\AddCalculator.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculator\obj\Debug\AddCalculator.pdb
