@@ -1,9 +1,0 @@
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\AddCalculatorTest.dll
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\AddCalculatorTest.pdb
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\AddCalculator.exe
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\nunit.framework.dll
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\AddCalculator.pdb
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\bin\Debug\nunit.framework.xml
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\obj\Debug\AddCalculatorTest.dll
-C:\Users\lenovo\documents\visual studio 2012\Projects\AddCalculator\AddCalculatorTest\obj\Debug\AddCalculatorTest.pdb
